@@ -5,7 +5,7 @@ page_title                                :                                     
 ios_app_id                                : 1456984742                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
 appstore_link                             :                                           # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
-playstore_link                            :                                           # Enter Google Play Store URL.
+playstore_link                            : https://play.google.com/store/apps/details?id=fm.listenalong
 presskit_download_link                    :                                           # Enter a link to downloadable file or (e.g. public Dropbox link to a .zip file). 
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
@@ -19,14 +19,14 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Nicholas Pachulski
-your_link                                 : http://pachulski.me
-your_city                                 : Boston
-email_address                             : nick@pachulski.me
-facebook_username                         :                                           
-instagram_username                        : ebaehr
-twitter_username                          : nickpachulski
-github_username                           : pachun
+your_name                                 : Listen Along
+your_link                                 : http://listenalong.fm
+your_city                                 :
+email_address                             :
+facebook_username                         :
+instagram_username                        :
+twitter_username                          :
+github_username                           :
 youtube_username                          :
 
 
@@ -43,7 +43,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Social Links
-    description                           : Share your broadcast via iMessage or to Twitter or Facebook with a tap.
+    description                           : Share your broadcast via iMessage or to Twitter and Facebook with a tap.
     fontawesome_icon_name                 : link
 
 
